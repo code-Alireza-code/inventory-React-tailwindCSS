@@ -1,8 +1,9 @@
-# React + Vite
+# Inventory App Project(React + TailwindCSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### tools: React(vite) + LocalStorage + tailwindCss
 
-Currently, two official plugins are available:
+##### run project : just run "npm run dev" in command line
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###### this is an inventory App with abilities to create categories and products , delete , edit them and save to local storage
+
+###### I'm an eager front-end learner and this project is my learnings...😉
